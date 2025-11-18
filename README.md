@@ -26,3 +26,10 @@ Dataset Requirements
 - Frameworks: TensorFlow/Keras, OpenCV.
 - Input resolution: 64×64 or 96×96 RGB.
 - Real-time loop must classify each frame and overlay class label on screen.
+
+## Future Iterations
+Revise gesture collection script to
+-Press 1, 2, 3, 4, 5 on the keyboard
+-Each number corresponds to a gesture
+-No need to restart the script
+-Images go into the correct gesture folder automatically
