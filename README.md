@@ -29,7 +29,7 @@ Dataset Requirements
 
 ## Future Iterations
 Revise gesture collection script to
--Press 1, 2, 3, 4, 5 on the keyboard
--Each number corresponds to a gesture
--No need to restart the script
--Images go into the correct gesture folder automatically
+- Press 1, 2, 3, 4, 5 on the keyboard
+- Each number corresponds to a gesture
+- No need to restart the script
+- Images go into the correct gesture folder automatically
