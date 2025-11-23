@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Debugged issue with path identification, the images should now save in the correct folders.
-gesture_name = "ok"
+gesture_name = "thumbs_up"
 save_path = f"/Users/damarisgarcia/Desktop/computer_vision_hand_gesture_project/dataset/{gesture_name}"
 os.makedirs(save_path, exist_ok=True)
 

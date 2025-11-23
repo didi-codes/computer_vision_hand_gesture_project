@@ -29,7 +29,7 @@ train_generator = train_datagen.flow_from_directory(
 
 validation_generator = train_datagen.flow_from_directory(
     DATASET_PATH,
-    target_size=(64.64),
+    target_size=(64,64),
     batch_size=32,
     class_mode="categorical",
     subset="validation"
